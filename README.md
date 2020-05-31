@@ -1,5 +1,34 @@
 # GuidedCapstone
-project repo
+
+**About**
+Big Mountain Resort, who has recently installed an additional chair lift to increase distribution of visitors across the mountain has resulted in the operating costs increasing by $1,540,000 this season. The resort investors are looking for a solution to increase this year’s annual revenue in the form of more footfalls to offset the increasing operating costs keeping in mind that it faces tough competition from nearly 330 resorts in the US.
+
+**Tools and Libraries**
+- Jupyter Notebook
+- Anaconda Prompt
+
+- Numpy
+- Pandas
+- matplotlib
+- seaborn
+- sklearn
+
+**Data Wrangling**
+1) Data cleansing was performed primarily focusing on the following
+-	Handling the missing and NA values
+o	Which were handled mostly using mean, ffill and fillna methods
+-	Removing duplicate rows 
+o	However, no duplicate rows were identified
+2) Exploratory Data Analysis was performed
+
+**Training data set development, Model development and selection**
+Using Linear Regression and performance metrics to identify the best possibility model in order to: 
+a) Improve Explained variance 
+b) Reduce Mean Absolute Error
+
+Using KMeans Clustering and scatter plots
+
+**Sequence of steps followed**
 
 # Step 1 - Problem identification
 # Step 2 - Data Wrangling 

@@ -42,7 +42,7 @@ https://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataf
 
 https://stackoverflow.com/questions/19071199/drop-columns-whose-name-contains-a-specific-string-from-pandas-dataframe
 
-# Step 5 - Modeling 
+# Step 5 and 6 - Modeling and Documentation
 
 **References**
 

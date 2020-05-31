@@ -5,7 +5,6 @@ project repo
 # Step 2 - Data Wrangling 
 
 **References**
-- Data Wrangling step references 
 
 https://stackoverflow.com/questions/25039626/how-do-i-find-numeric-columns-in-pandas
 
@@ -22,6 +21,7 @@ https://stackoverflow.com/questions/49608656/saving-a-dataframe-to-csv-file-pyth
 # Step 3 - Exploratory Data Analysis
 
 **References**
+
 https://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe
 
 https://stackoverflow.com/questions/51777217/how-to-plot-a-boxplot-for-each-column-in-a-dataframe
@@ -39,11 +39,13 @@ https://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataf
 # Step 4 - Pre-processing, training data development
 
 **References**
+
 https://stackoverflow.com/questions/19071199/drop-columns-whose-name-contains-a-specific-string-from-pandas-dataframe
 
 # Step 5 - Modeling 
 
 **References**
+
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html
 
 https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html

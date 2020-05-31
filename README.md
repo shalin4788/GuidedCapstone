@@ -35,3 +35,18 @@ https://stackoverflow.com/questions/43152502/how-can-i-rotate-xticklabels-in-mat
 https://stackoverflow.com/questions/29294983/how-to-calculate-correlation-between-all-columns-and-remove-highly-correlated-on
 
 https://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas
+
+# Step 4 - Pre-processing, training data development
+
+**References**
+https://stackoverflow.com/questions/19071199/drop-columns-whose-name-contains-a-specific-string-from-pandas-dataframe
+
+# Step 5 - Modeling 
+
+**References**
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+

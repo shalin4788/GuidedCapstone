@@ -21,10 +21,9 @@ Big Mountain Resort, who has recently installed an additional chair lift to incr
 
 1) Data cleansing was performed primarily focusing on the following
 -	Handling the missing and NA values
-o	Which were handled mostly using mean, ffill and fillna methods
 -	Removing duplicate rows 
-o	However, no duplicate rows were identified
-2) Exploratory Data Analysis was performed
+
+2) Exploratory Data Analysis was performed to find co-relation between variables
 
 **Training data set development, Model development and selection**
 
